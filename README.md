@@ -26,6 +26,7 @@ SkillSync is an AI-powered career development platform that helps you:
 - Build a comprehensive skill portfolio
 
 **Screenshot Description:** *Landing page showing the hero section with "Boost Your Resume with AI" heading, blue gradient background, and "Get Started" button*
+<img width="635" height="524" alt="Screenshot 2025-09-03 181503" src="https://github.com/user-attachments/assets/3233f21c-fff3-4998-99aa-1bd47d1dbbd2" />
 
 ---
 
@@ -36,6 +37,7 @@ SkillSync is an AI-powered career development platform that helps you:
 **Step 1:** Navigate to the signup page
 - Click "Sign Up" on the homepage
 - Or visit `/signup` directly
+<img width="1895" height="860" alt="Screenshot 2025-09-03 181610" src="https://github.com/user-attachments/assets/9f737b8d-7daf-470c-8caa-d2baae657020" />
 
 **Screenshot Description:** *Sign up form with fields for Full Name, Email, Password, Confirm Password, and a terms agreement checkbox. Google OAuth button available at the top.*
 
@@ -61,6 +63,7 @@ SkillSync is an AI-powered career development platform that helps you:
 - Or visit `/login` directly
 
 **Screenshot Description:** *Login form with email and password fields, "Remember me" checkbox, and social login options (Google/GitHub)*
+<img width="1907" height="869" alt="Screenshot 2025-09-03 181703" src="https://github.com/user-attachments/assets/3b45437f-f245-4aeb-b931-3ed65d8293e3" />
 
 **Step 2:** Login options
 - **Email Login:** Enter email and password, click "Sign In"
@@ -73,7 +76,9 @@ SkillSync is an AI-powered career development platform that helps you:
 
 Once logged in, you'll land on your personal dashboard - your mission control center.
 
+
 **Screenshot Description:** *Dashboard with 5 main metric cards showing Skills, CVs, Job Analyses, Courses, and Notifications counts, plus a welcome header with user's name*
+<img width="1710" height="814" alt="Screenshot 2025-09-03 181314" src="https://github.com/user-attachments/assets/615009d6-d17c-4ac9-b4a5-8741881cba0e" />
 
 ### Dashboard Components
 
@@ -127,6 +132,7 @@ Four main action buttons for core features:
 - Or navigate to `/upload`
 
 **Screenshot Description:** *CV upload interface with drag-and-drop area, file format requirements (PDF, DOC, DOCX), and maximum file size information*
+<img width="1291" height="802" alt="Screenshot 2025-09-03 181745" src="https://github.com/user-attachments/assets/48e4777e-86c8-4f2a-8ded-e4a6b938de79" />
 
 **Step 2:** Upload your file
 - **Drag & Drop:** Drag your CV file into the upload area
@@ -161,6 +167,7 @@ Four main action buttons for core features:
 - Or navigate to `/skills`
 
 **Screenshot Description:** *Skills page showing categorized skills in different colored tags/badges, with proficiency levels and source information (CV_EXTRACTION, MANUAL, etc.)*
+<img width="877" height="735" alt="Screenshot 2025-09-03 181901" src="https://github.com/user-attachments/assets/e015a627-a60e-4a85-8807-9d83ba37f253" />
 
 **Skills Display:**
 - **Categories:** Skills grouped by type (Programming, Databases, Cloud, etc.)
@@ -179,6 +186,7 @@ Four main action buttons for core features:
 - Or visit `/analysis`
 
 **Screenshot Description:** *Job analysis form with fields for Job Title, Company Name, and a large text area for Job Description*
+<img width="855" height="556" alt="image" src="https://github.com/user-attachments/assets/e5d43598-9b84-4f80-a66f-d7e2325ef639" />
 
 **Step 2:** Fill job details
 - **Job Title:** Position you're interested in
@@ -193,6 +201,7 @@ Four main action buttons for core features:
 ### 2. Viewing Analysis Results
 
 **Screenshot Description:** *Job analysis results page showing readiness score (e.g., 75%), matched skills in green, missing skills in red, with course recommendations for each missing skill*
+<img width="954" height="817" alt="Screenshot 2025-09-03 182146" src="https://github.com/user-attachments/assets/79996653-3fab-4fcf-943d-62a696dc034c" />
 
 **Analysis Components:**
 
@@ -291,6 +300,7 @@ Each skill shows:
 - Or navigate to `/courses`
 
 **Screenshot Description:** *Course catalog page with search bar, filter options (difficulty, provider, price), and course cards showing titles, descriptions, ratings, and skills taught*
+<img width="1135" height="749" alt="Screenshot 2025-09-03 181958" src="https://github.com/user-attachments/assets/61bbc63d-b9f4-4c3c-bd1a-65b2d98e240d" />
 
 **2. Course Filters & Search**
 
@@ -351,6 +361,7 @@ Each skill shows:
 **Navigation:** User menu (top right) → "Profile Settings" or `/profile`
 
 **Screenshot Description:** *Profile page showing user avatar, personal information fields, contact details, and profile statistics*
+<img width="983" height="827" alt="image" src="https://github.com/user-attachments/assets/48464325-6c72-4df8-9fcc-f3a7c438e6f7" />
 
 ### 2. Profile Information
 
@@ -395,6 +406,7 @@ Each skill shows:
 **Navigation:** Dashboard → "History" or `/history`
 
 **Screenshot Description:** *History page with tabs for "Completed Courses" and "Skills Acquired", showing timeline of learning activities*
+<img width="1556" height="853" alt="image" src="https://github.com/user-attachments/assets/f9d250cc-d647-4385-9ed6-5fefeefd7729" />
 
 **History Components:**
 
@@ -443,6 +455,7 @@ Each skill shows:
 **Navigation:** After admin login → `/admin/dashboard`
 
 **Screenshot Description:** *Admin dashboard showing system statistics: total users, total CVs, total skills, and system health indicators*
+<img width="1555" height="837" alt="image" src="https://github.com/user-attachments/assets/0fd873b2-f3ea-42da-94ee-635fef1baea0" />
 
 **Admin Overview:**
 - **System Statistics:** Users, CVs, Skills counts
@@ -454,6 +467,7 @@ Each skill shows:
 **Navigation:** Admin Dashboard → "Courses" or `/admin/courses`
 
 **Screenshot Description:** *Admin course management interface with course list, search/filter options, and buttons to add, edit, or delete courses*
+<img width="1510" height="843" alt="image" src="https://github.com/user-attachments/assets/b4e885a9-c08e-41b3-a58f-76ee36f7e029" />
 
 **Course Administration:**
 - **View All Courses:** Paginated list of all courses
@@ -474,6 +488,7 @@ Each skill shows:
 **Navigation:** Admin Dashboard → "Skills" or `/admin/skills`
 
 **Screenshot Description:** *Skills management page showing categorized skill list with options to add, edit, delete, and organize skills*
+<img width="1542" height="847" alt="image" src="https://github.com/user-attachments/assets/55b6bde3-9be5-4a71-a3a9-8dfa713b60d9" />
 
 **Skills Administration:**
 - **Skill Database:** Complete list of available skills
